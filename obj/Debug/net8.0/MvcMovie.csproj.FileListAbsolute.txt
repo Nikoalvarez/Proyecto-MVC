@@ -32,3 +32,4 @@ C:\Users\nicol\Desktop\Programacion\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dl
 C:\Users\nicol\Desktop\Programacion\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 C:\Users\nicol\Desktop\Programacion\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 C:\Users\nicol\Desktop\Programacion\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\nicol\Desktop\Programacion\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
