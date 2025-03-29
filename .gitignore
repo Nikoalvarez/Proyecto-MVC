@@ -1,0 +1,18 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.*
+*.cache
+
+# Archivos compilados
+bin/
+obj/
+
+# Configuración de usuario
+*.log
+*.env
+
+# Dependencias de paquetes
+node_modules/
+packages/
