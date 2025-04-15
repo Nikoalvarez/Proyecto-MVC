@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T17:37:06.365Z",
+              "DocumentIndex": 0,
+              "Title": "moviesController.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Controllers\\moviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\moviesController.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Controllers\\moviesController.cs",
+              "RelativeToolTip": "Controllers\\moviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:25:30.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T17:33:00.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Title": "movie.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Models\\movie.cs",
+              "RelativeDocumentMoniker": "Models\\movie.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Models\\movie.cs",
+              "RelativeToolTip": "Models\\movie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:29:48.969Z",
+              "WhenOpened": "2025-04-15T21:09:58.298Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:48:00.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T20:51:43.931Z"
             }
           ]
         }
