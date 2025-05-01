@@ -12,5 +12,5 @@ using MvcMovie.Models;
         {
         }
 
-        public DbSet<MvcMovie.Models.movie> movie { get; set; } = default!;
+        public DbSet<MvcMovie.Models.Movie> movie { get; set; } = default!;
     }
