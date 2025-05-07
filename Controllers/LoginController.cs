@@ -32,7 +32,7 @@ namespace MvcMovie.Controllers
 
                 HttpContext.SignInAsync("cookies", principal);
 
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Bienvenida", "PostLogin");
 
             }
             else

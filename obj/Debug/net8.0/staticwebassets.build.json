@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G7JjXfP5Njt4lYNxGP1K2c4+eXwmfXiZJNUKOVpIXzc=",
+  "Hash": "X9rh9vj49qXloOgbN903Ggpksb9I/Jd5TKjhRMDpYOs=",
   "Source": "MvcMovie",
   "BasePath": "_content/MvcMovie",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\Login.css",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "css/Login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fksp4hvjqp",
+      "Integrity": "IYvCGj15gvzRaJdxCY4xpJ50qm8H+UAnX4SMHPPHtAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
       "Identity": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\site.css",
@@ -1341,6 +1362,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/Login.css",
+      "AssetFile": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYvCGj15gvzRaJdxCY4xpJ50qm8H+UAnX4SMHPPHtAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYvCGj15gvzRaJdxCY4xpJ50qm8H+UAnX4SMHPPHtAc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.fksp4hvjqp.css",
+      "AssetFile": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYvCGj15gvzRaJdxCY4xpJ50qm8H+UAnX4SMHPPHtAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fksp4hvjqp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYvCGj15gvzRaJdxCY4xpJ50qm8H+UAnX4SMHPPHtAc="
+        }
+      ]
+    },
     {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\site.css",

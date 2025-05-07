@@ -1,22 +1,35 @@
 ﻿@{
-	ViewBag.Title = "Login";
-	Layout = null;
-
-	<h2>Login</h2>
-	
-
+    ViewBag.Title = "Login";
+    Layout = null; // Sin layout para que tenga su propio estilo limpio
 }
 
-@using (Html.BeginForm())
-{
-	<p>Usuario:  @Html.TextBox("User")</p>
-	<p>Contraseña: @Html.TextBox("Password")</p>
-	<input type = "submit" value = "Iniciar Sesion">
-}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/login.css" />
+</head>
+<body>
+    <div class="login-container">
+        <h2>Iniciar Sesión</h2>
 
+        @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+        {
+            <p>Usuario:</p>
+            @Html.TextBox("User", null, new { @class = "form-control", placeholder = "Ingrese su usuario" })
 
-@if(ViewBag.Error != null){
+            <p>Contraseña:</p>
+            @Html.Password("Password", null, new { @class = "form-control", placeholder = "Ingrese su contraseña" })
 
-	<p style="color:red">@ViewBag.Error</p>
+            <br />
+            <input type="submit" value="Iniciar Sesión" class="btn-login" />
+        }
 
-}
+        @if (ViewBag.Error != null)
+        {
+            <p class="error">@ViewBag.Error</p>
+        }
+    </div>
+</body>
+</html>
