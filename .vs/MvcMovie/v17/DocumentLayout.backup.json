@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|c:\\users\\nicol\\desktop\\programacion\\mvcmovie\\controllers\\postlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5DC2C7D-4844-40A7-B997-3C84DC48571A}|MvcMovie.csproj|solutionrelative:controllers\\postlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,37 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T22:41:15.532Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.css",
-              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-07T22:39:38.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Bienvenida.cshtml",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Views\\PostLogin\\Bienvenida.cshtml",
               "RelativeDocumentMoniker": "Views\\PostLogin\\Bienvenida.cshtml",
@@ -69,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PostLogin.cs",
               "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Controllers\\PostLogin.cs",
               "RelativeDocumentMoniker": "Controllers\\PostLogin.cs",
               "ToolTip": "C:\\Users\\nicol\\Desktop\\Programacion\\MvcMovie\\Controllers\\PostLogin.cs",
               "RelativeToolTip": "Controllers\\PostLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T22:11:47.289Z",
               "EditorCaption": ""
